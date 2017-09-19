@@ -1,0 +1,36 @@
+body { 
+	padding-top: 70px; 
+	/*background-color: #b2dfdb;*/
+	background-color: #b0bec5;
+}
+
+#main-content {
+	/*background-color: #7283a7;*/
+	/*background-color: #90a4ae;*/
+	background-color: #607d8b;
+
+	
+	
+
+}
+
+
+h3 {
+	color: #e0e0e0;
+
+}
+
+.img-responsive {
+	padding-bottom: 20px;
+}
+
+.container {
+	
+}
+
+#aside {
+	background-color: #7283a7;
+
+	
+	
+}
